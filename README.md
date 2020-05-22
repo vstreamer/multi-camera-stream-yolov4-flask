@@ -45,7 +45,7 @@ To modify the detection settings like IOU threshold, anchors, class names etc., 
 ### Detecting multiple classes
 Modify line 103 in yolo.py. For example, to detect people and cars, change it to:
 ```
-            if predicted_class != 'person' and predicted_class != 'car':
+            if predicted_class not in ('people', 'car'):
                 continue
 ```
 
