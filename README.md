@@ -55,7 +55,7 @@ Deep SORT is used for object tracking. However, Please note that the tracking mo
 See https://github.com/nwojke/cosine_metric_learning to train your own tracking model.
 
 ### Disabling Deep SORT
-However, if you don't want to use tracking at all, you can turn it off by changing line 28 from 
+However, if you don't want to use tracking at all, you can turn it off by changing line 28 in camera_yolo.py from 
 ```
 tracking = True
 ```
