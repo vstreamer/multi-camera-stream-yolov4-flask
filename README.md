@@ -116,5 +116,6 @@ This project was built with the help of:
 * https://github.com/miguelgrinberg/flask-video-streaming
   * https://github.com/miguelgrinberg/flask-video-streaming/issues/11#issuecomment-343605510
 * https://github.com/Ma-Dan/keras-yolo4
+* https://github.com/nwojke/deep_sort
 * https://github.com/Qidian213/deep_sort_yolov3
 * https://github.com/yehengchen/Object-Detection-and-Tracking
